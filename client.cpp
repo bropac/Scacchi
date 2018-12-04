@@ -2,7 +2,7 @@
 #include <stdlib.h>
 using namespace std;
 
-//linea di modifica
+//linea di modifica_1
 
 void stampaScacchiera();
 void login();
